@@ -1,0 +1,27 @@
+Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: /Users/idkwhojamesis/Library/Mobile Documents/com~apple~CloudDocs/Documents/School/2019-'20/Info & Data Management/lab3/lab3.py 
+Welcome to the LC Bookstore!
+Enter your first name: Irene
+  # of Cervantes books: 2
+      # of Homer books: 0
+# of Shakespeare books: 3
+Total cost of order is: $191.4
+How much money will you pay? 200.25
+----------
+Customer: Irene
+----------
+Item          Number   Price
+Cervantes     2         $82.5
+Homer         0         $0.0
+Shakespeare   3         $91.5
+-----
+Tax                     $17.4
+-----
+Total                   $191.4
+User pay                $200.25
+-----
+Change                  $8.85
+>>> 

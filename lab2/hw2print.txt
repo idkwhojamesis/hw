@@ -1,0 +1,23 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+===================== RESTART: D:/python/Scripts/hw2.py =====================
+value 0 or 'n' to finish
+3
+value 1 or 'n' to finish
+8
+value 2 or 'n' to finish
+13
+value 3 or 'n' to finish
+2
+value 4 or 'n' to finish
+17
+value 5 or 'n' to finish
+18
+value 6 or 'n' to finish
+10
+value 7 or 'n' to finish
+n
+SUM:20
+I found 3 and 17 for the sum of 20
+>>> 
