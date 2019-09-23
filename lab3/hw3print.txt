@@ -1,0 +1,39 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+====================== RESTART: D:\python\James\hw3.py ======================
+Input 1 (True/False):1
+Input 2 (True/False):1
+Input 3 (True/False):1
+Input  1 is 1
+Input  2 is 1
+Input  3 is 1
+Output is 1
+>>> 
+====================== RESTART: D:\python\James\hw3.py ======================
+Input 1 (True/False):0
+Input 2 (True/False):0
+Input 3 (True/False):0
+Input  1 is 0
+Input  2 is 0
+Input  3 is 0
+Output is 0
+>>> 
+====================== RESTART: D:\python\James\hw3.py ======================
+Input 1 (True/False):1
+Input 2 (True/False):1
+Input 3 (True/False):0
+Input  1 is 1
+Input  2 is 1
+Input  3 is 0
+Output is 1
+>>> 
+====================== RESTART: D:\python\James\hw3.py ======================
+Input 1 (True/False):1
+Input 2 (True/False):0
+Input 3 (True/False):0
+Input  1 is 1
+Input  2 is 0
+Input  3 is 0
+Output is 0
+>>> 
