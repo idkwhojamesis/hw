@@ -1,0 +1,53 @@
+# James Park
+# Oct. 1 2019
+# hw4: machine instructions
+
+#a
+subtract 202, 203, 201
+load 204
+add 201
+store 204
+halt
+
+#b
+load 201
+add 202
+store 202
+load 203
+add 204
+store 204
+load 202
+add 204
+store 200
+halt
+
+#c
+load 201
+compare 200
+jumpgt l1
+jumpeq l1
+load 204
+store 202
+halt
+l1:
+ load 203
+ store 202
+ halt
+
+#d
+load 204
+compare 203
+jump l1
+l1:
+ load 203
+ add 201
+ add 204
+ store 203
+ load 204
+ add 200
+ store 204
+ load 204
+ compare 203
+ jumplt l1
+ halt
+

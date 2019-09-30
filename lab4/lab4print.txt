@@ -1,0 +1,27 @@
+Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: /Users/idkwhojamesis/Library/Mobile Documents/com~apple~CloudDocs/Documents/School/2019-'20/Info & Data Management/hw/lab4.py 
+Welcome to Fordham Airlines!
+Destination? (c/m/p):p
+Desired time? (0-2400):450
+Week(d)ay or week(e)nd?e
+price is $240
+# of tickets:2
+Total: $480
+How much are you paying?100
+Not enough money! Exiting
+>>> 
+ RESTART: /Users/idkwhojamesis/Library/Mobile Documents/com~apple~CloudDocs/Documents/School/2019-'20/Info & Data Management/hw/lab4.py 
+Welcome to Fordham Airlines!
+Destination? (c/m/p):m
+Desired time? (0-2400):1345
+Week(d)ay or week(e)nd?d
+price is $150
+# of tickets:3
+Total: $450
+How much are you paying?500
+Change: 50
+Your tickets have been ordered.
+>>> 
