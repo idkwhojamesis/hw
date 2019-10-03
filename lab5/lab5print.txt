@@ -1,0 +1,19 @@
+Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: /Users/idkwhojamesis/Library/Mobile Documents/com~apple~CloudDocs/Documents/School/2019-'20/Info & Data Management/lab5.py 
+Enter an equation or 0 x 0 to exit:12 / 4
+12 / 4 = 3.0
+Enter an equation or 0 x 0 to exit:4 x 2
+4 x 2 = 8
+Enter an equation or 0 x 0 to exit:5 x -10
+5 x -10 = -50
+Enter an equation or 0 x 0 to exit:5 + 10
+5 + 10 = 15
+Enter an equation or 0 x 0 to exit:10 - 30
+10 - 30 = -20
+Enter an equation or 0 x 0 to exit:31 / 0
+Error -- cannot divide by zero
+Enter an equation or 0 x 0 to exit:0 x 0
+>>> 
