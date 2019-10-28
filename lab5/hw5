@@ -1,0 +1,8 @@
+# James Park
+# Oct 10 2019
+# Order of OS requests
+
+1. The power supply, as critical data could be lost if not saved in time
+2. Terminate the operation on processor 2 (or, if power is going to run out, terminate the program altogether)
+3. Store read character in memory
+4. Update clock
