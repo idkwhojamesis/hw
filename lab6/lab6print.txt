@@ -1,0 +1,40 @@
+Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: /Users/idkwhojamesis/Library/Mobile Documents/com~apple~CloudDocs/Documents/School/2019-'20/Info & Data Management/hw/lab6/lab6.py 
+Inputs are case sensitive. type 'x' to exit.
+Course number:CS101
+Room #: 3004
+Instructor: Haynes
+Meeting time: 8:00 am
+Inputs are case sensitive. type 'x' to exit.
+Course number:CS102
+Room #: 4501
+Instructor: Alvarado
+Meeting time: 9:00 am
+Inputs are case sensitive. type 'x' to exit.
+Course number:CS103
+Room #: 6755
+Instructor: Rich
+Meeting time: 10:00 am
+Inputs are case sensitive. type 'x' to exit.
+Course number:NT110
+Room #: 1244
+Instructor: Burke
+Meeting time: 11:00 am
+Inputs are case sensitive. type 'x' to exit.
+Course number:CM241
+Room #: 1411
+Instructor: Lee
+Meeting time: 1:00 pm
+Inputs are case sensitive. type 'x' to exit.
+Course number:asdf
+invalid input. Try again.
+Inputs are case sensitive. type 'x' to exit.
+Course number:1234
+invalid input. Try again.
+Inputs are case sensitive. type 'x' to exit.
+Course number:x
+Exiting
+>>> 
