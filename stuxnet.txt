@@ -1,0 +1,5 @@
+# James Park
+# Prof. Kounavelis
+# 5 November 2019
+
+Since Stuxnet was originally designed as a cyberweapon, and did its job (and unexpectedly much more) at infecting computers and networks as part of warfare, it is definitely a part of cyberwarfare. In the same way a country may have an insider or secret intelligence on another, America and Israel initally deployed Stuxnet to damage Iran's nuclear program from the inside.

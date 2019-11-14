@@ -1,0 +1,8 @@
+# James Park
+# Prof. Kounavelis
+# Homework 7
+
+4. It would return employees "Janet Kay" and "Morros Honou".
+5. SELECT FirstName, LastName, PayRate 
+   FROM Employees
+   ORDER BY PayRate
