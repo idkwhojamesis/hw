@@ -1,0 +1,20 @@
+# James Park
+# 19 November 2019
+# HW 8 Doctor
+
+10. 
+SELECT * FROM Doctor;
+SELECT * FROM Patient;
+SELECT * FROM ClinicAppointment;
+
+11.
+SELECT Patient.FirstName, Patient.LastName, Doctor.FirstName, Doctor.LastName, ClinicAppointment.AppTime 
+FROM ClinicAppointment
+INNER JOIN Patient ON Patient.PatientID=ClinicAppointment.PatientID
+INNER JOIN Doctor ON
+Doctor.PatientID=ClinicAppointment.PatientID
+WHERE AppDate='2/28/2018';
+
+results:
+1. Gordon, Zhang, Estelle, Villanueva, 10:30 AM
+2. Gail, Perez, Anne, Davis, 8:30 AM
